@@ -38,21 +38,29 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 
 <br>
 
-### <p style="color:red">NOTE: Instalasi Dengan GIT</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
+- **Buka Apk Termux Dan Masukan Perintah Berikut**
 
-- **Buka CMD / Command Prompt (atau terminal VSCode)**
-
-- **Clone repository**
+- **Command Termux**
 ```bash
-git clone https://github.com/rickyfazaa/MySPAMBot-OTP
+pkg update
 ```
-- **Masuk kedalam directory**
 ```sh
-cd MySPAMBot-OTP
+pkg upgrade
 ```
-- **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
-python main.py
+pkg install python3
+```
+```sh
+pkg install git
+```
+```bash
+git clone https://github.com/riyanid/SpamOtp.git
+```
+```sh
+cd SpamOtp
+```
+```bash
+python3 SpamOtp.py
 ```
 <br>
 
