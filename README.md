@@ -65,9 +65,6 @@ python3 SpamOtp.py
 <br>
 
 
-## Dependencies 🚀
-**`Coming Soon`**
-
 
 
 ## Support Me 
