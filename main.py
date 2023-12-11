@@ -325,11 +325,11 @@ def start(nomor,x): # Def Untuk Start Tools
         
 def main():
     os.system("cls") # Clear Terminal agar CMD berwarna
-    autoketik(f"Selamat datang di {merah}MySpamBot")
-    print(f"""{kuning}Author      : {hijau}Ricky Khairul Faza
-{kuning}Github      : {merah}github.com/rickyfazaa
-{kuning}Instagram   : {biru}instagram.com/rickyfazaa""")
-    # Contoh : 089508226367
+    autoketik(f"Selamat datang di {merah}Tools Spam Otp")
+    print(f"""{kuning}Author      : {hijau}Ryanada
+{kuning}Github      : {merah}github.com/RiyanID
+{kuning}Instagram   : {biru}instagram.com/iyanns_123
+{kuning}Contoh.     : {merah}08xnxxxxxxx""")
     print(nomor := input(f"{hijau}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
