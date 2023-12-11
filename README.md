@@ -69,5 +69,5 @@ python3 SpamOtp.py
 
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
-### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
+### [**My Instagram: @iyanns_123**](https://www.instagram.com/iyanns_123)    
 Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
