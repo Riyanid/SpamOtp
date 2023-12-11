@@ -38,9 +38,9 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 
 <br>
 
-- **Buka Apk Termux Dan Masukan Perintah Berikut**
+- **Buka Apk Termux **
 
-- **Command Termux**
+- **Dan Masukan Perintah Berikut**
 ```bash
 pkg update
 ```
