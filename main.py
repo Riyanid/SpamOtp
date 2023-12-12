@@ -318,6 +318,7 @@ def start(nomor,x): # Def Untuk Start Tools
     else:
         print("")
         autoketik("--reboot wait 20 second--")
+        autoketikk("--reboot wait 10 second--")
         time.sleep(15) # Tunda 20 detik
         os.system("cls") # Clear Terminal
         autoketik(f"{merah}Mengulang Spam ke Nomor : {nomor}.....{hijau}") # Flag dimana program berjalan
@@ -325,11 +326,15 @@ def start(nomor,x): # Def Untuk Start Tools
         
 def main():
     os.system("cls") # Clear Terminal agar CMD berwarna
-    autoketik(f"Selamat datang di {merah}Tools Spam Otp")
-    print(f"""{kuning}Author      : {hijau}Ryanada
-{kuning}Github      : {merah}github.com/RiyanID
-{kuning}Instagram   : {biru}instagram.com/iyanns_123
-{kuning}Contoh.     : {merah}08xnxxxxxxx""")
+    autoketik(f"""{hijau} ┌───────────────────────────────⊷ 
+ {abu}▢ {kuning}Selamat datang di {hijau}Tools Spam Chat&Sms
+{hijau} └───────────────────────────────⊷""")
+    print(f"""{hijau} ┌───────────────────────────────⊷ 
+ {abu}▢ {kuning}Author    : {hijau}Ryanada
+ {abu}▢ {kuning}Github    : {ungu}github.com/RiyanID
+{abu} ▢ {kuning}Instagram : {biru}instagram.com/iyanns_123
+ {abu}▢ {kuning}Contoh    : {ungu}08xnxxxxxxx
+{hijau} └───────────────────────────────⊷""")
     print(nomor := input(f"{hijau}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
