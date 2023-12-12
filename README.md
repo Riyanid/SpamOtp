@@ -60,7 +60,7 @@ git clone https://github.com/riyanid/SpamOtp.git
 cd SpamOtp
 ```
 ```bash
-python3 SpamOtp.py
+python3 main.py
 ```
 <br>
 
@@ -70,4 +70,4 @@ python3 SpamOtp.py
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
 ### [**My Instagram: @iyanns_123**](https://www.instagram.com/iyanns_123)    
-Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
+Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/iyanns_123).
